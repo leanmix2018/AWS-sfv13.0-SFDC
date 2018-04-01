@@ -1,0 +1,1 @@
+This is a mule project for archetype AWS-sfv13.0-SFDC
